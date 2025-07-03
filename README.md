@@ -22,6 +22,3 @@ I enhanced this application to demonstrate:
 - Development of a user-friendly interface
 - Writing unit tests to ensure code reliability
 
-## 📬 Contact
-Need a custom task management solution? Let's connect:
-👉 [https://www.fiverr.com/ugaffar](https://www.fiverr.com/ugaffar)
